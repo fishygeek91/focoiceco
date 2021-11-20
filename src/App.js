@@ -11,8 +11,6 @@ function App() {
           <br></br>
           Stay Tuned
         </p>
-        <a>
-        </a>
       </header>
     </div>
   );
